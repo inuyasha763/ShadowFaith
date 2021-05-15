@@ -8,7 +8,6 @@ You can modify this README.md to highlight:
 2. Methodology
 3. Code examples (including notebooks)
 
-# Project overview
 
 Tell me something about this project.
 
